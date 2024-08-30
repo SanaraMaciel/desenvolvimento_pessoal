@@ -1,0 +1,12 @@
+Personagem;
+Tensão;
+Nível de detalhes,
+Resolução.
+
+Personagem: Pedro é um jovem nerd programador que adora pensar em soluções para resolver os problemas do dia a dia das pessoas e das empresas.
+
+Tensão: Pedro gostava muito de trabalhar com seus colegas e se sentia bem com a cultura da empresa. Seu líder, diferente dos seus antigos chefes, ouvia suas ideias e o apoiava. No entanto, ele não tinha condições de dar mais espaço para o Pedro se desenvolver.
+
+Nível de detalhes: Pedro trabalhava num time com oito pessoas. O time era muito bem integrado e seu líder estava sempre apoiando a equipe.
+
+Resolução: Por mais que Pedro gostasse de trabalhar lá, ele sentia que tinha chegado a hora de fazer mais e ali ele não havia espaço. Foi então que começou a se interessar pelo mundo das Startups. Participava de vários eventos e finalmente conseguiu uma nova oportunidade: foi trabalhar na Bytebank.
