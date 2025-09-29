@@ -16,3 +16,4 @@
 * Curso Pontos fortes parte 1 descubra os seus e aprenda a gerenciá-los
 * Curso Pontos fortes parte 2 habilidades e competências
 * Curso Síndrome do Impostor reconheça seu sucesso e resultados
+* Cusro Social Listening - praticando a escuta ativa
